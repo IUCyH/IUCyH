@@ -29,17 +29,6 @@
 
 <br>
 
-<h3 align="center">💻Studying</h3>
-<div align="center">
-  <strong>
-    <span>
-      <p>Assembly(NASM), OS, DB, Network, Information Security, Compiler</p>
-    </span>
-  </strong>
-</div>
-
-<br>
-
 <h3 align="center">📗Blog</h3>
 <div align="center">
   <a href="https://luvdev.tistory.com/">
