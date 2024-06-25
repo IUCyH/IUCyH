@@ -1,6 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=10&height=300&section=header&text=Iucyh's%20GitHub&fontSize=90"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IUCyH&show_icons=true&theme=buefy&include_all_commits=true"/>
+</div>
   
 <h3 align="center">📄Languages</h3>
 <div align="center">
