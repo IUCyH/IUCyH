@@ -3,13 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IUCyH&show_icons=true&theme=buefy&include_all_commits=true"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IUCyH&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IUCyH&show_icons=true&theme=buefy&include_all_commits=true" alt="GitHub Stats" style="max-width: 100%; display: inline-block; margin-right: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IUCyH&layout=compact" alt="Top Languages" style="max-width: 100%; display: inline-block;">
 </div>
 
 <br>
