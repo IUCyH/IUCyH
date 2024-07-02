@@ -5,6 +5,16 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IUCyH&show_icons=true&theme=buefy&include_all_commits=true"/>
 </div>
+
+<br>
+
+<div align="center">
+    <a href="https://solved.ac/bere6363" target="_blank">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bere6363" alt="Solved.ac 프로필">
+    </a>
+</div>
+
+<br>
   
 <h3 align="center">📄Languages</h3>
 <div align="center">
