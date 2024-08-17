@@ -47,7 +47,7 @@
 
 <h3 align="center">📗Blog</h3>
 <div align="center">
-  <a href="https://luvdev.tistory.com/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/tistory-color.svg?style=for-the-badge&logo=Tistory&logoColor=white&color=red">
+  <a href="https://iucyh.notion.site/CS-bd849b71f1cd4857bf299686619687c8?pvs=4">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Notion-%23000000.svg?style=social&logo=notion&logoColor=black">
   </a>
 </div>
