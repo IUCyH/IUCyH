@@ -20,6 +20,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-color.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=00599C">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%23-color.svg?style=for-the-badge&logo=C%23&logoColor=white&color=512BD4">
   <img alt="Static Badge" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
 <br>
