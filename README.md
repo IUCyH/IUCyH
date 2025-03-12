@@ -12,6 +12,9 @@
 - 사용 언어 및 프레임워크: TypeScript, NestJS + Node
 - ORM: TypeOrm + MariaDB, Redis
 - cafe24 클라우드 환경에 배포, nginx 사용 및 gzip 압축 활용
+### [백준](https://github.com/IUCyH/BOJ_Study)
+- 사용언어: C
+- [프로필](https://www.acmicpc.net/user/bere6363)
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IUCyH&show_icons=true&theme=buefy"/>
