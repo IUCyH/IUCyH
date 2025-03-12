@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=10&height=300&section=header&text=Iucyh's%20GitHub&fontSize=90"/>
 </div>
 
+## Projects
+### [Team Up](https://github.com/IUCyH/ProtectServer)
+- 사용 언어 및 라이브러리: C, mongoose.h
+- 인증 방식: jwt 토큰 인증
+- 개인 서버에 배포, docker+nginx를 이용해 로드 밸런싱
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IUCyH&show_icons=true&theme=buefy"/>
 </div>
