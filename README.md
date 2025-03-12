@@ -7,7 +7,12 @@
 - 사용 언어 및 라이브러리: C, mongoose.h
 - 인증 방식: jwt 토큰 인증
 - 개인 서버에 배포, docker+nginx를 이용해 로드 밸런싱
-
+### [Plant](https://github.com/IUCyH/plant)
+- 외주 프로젝트
+- 사용 언어 및 프레임워크: TypeScript, NestJS + Node
+- ORM: TypeOrm + MariaDB, Redis
+- cafe24 클라우드 환경에 배포, nginx 사용 및 gzip 압축 활용
+---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IUCyH&show_icons=true&theme=buefy"/>
 </div>
