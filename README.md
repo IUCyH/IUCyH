@@ -39,6 +39,12 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
+<h3 align="center">🏛️ Frameworks</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
+</div>
+
 <br>
 
 <h3 align="center">📗 Blog</h3>
