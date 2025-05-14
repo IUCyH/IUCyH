@@ -49,7 +49,7 @@
 
 <h3 align="center">📗 Blog</h3>
 <div align="center">
-  <a href="https://jlcy.notion.site/CS-a874fca51f914c26ba4c6f75570d202d?pvs=4">
+  <a href="https://maize-filament-69f.notion.site/CS-1f30ad45a87780748db5d6ce39b5e84f?pvs=4">
     <img alt="Static Badge" src="https://img.shields.io/badge/Notion-%23000000.svg?style=social&logo=notion&logoColor=black">
   </a>
 </div>
