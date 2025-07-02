@@ -12,7 +12,7 @@
 - 사용 언어 및 프레임워크: TypeScript, NestJS + Node
 - ORM: TypeOrm + MariaDB, Redis
 - cafe24 클라우드 환경에 배포, nginx 사용 및 gzip 압축 활용
-### [JJAP Cloud](https://github.com/IUCyH/jjap-cloud)
+### [JJAP Cloud](https://github.com/IUCyH/jjap-cloud-ver2)
 - 2025.05.17 ~
 - 음악 스트리밍 포트폴리오
 - Spring MVC + AWS EC2 배포
