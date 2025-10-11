@@ -45,7 +45,7 @@
 
 <h3 align="center">📗 Blog</h3>
 <div align="center">
-  <a href="https://maize-filament-69f.notion.site/SQL-2860ad45a87780ceb095f3652a68225b?source=copy_link">
+  <a href="https://maize-filament-69f.notion.site/2860ad45a877804cbb2bd5c9167e44c8?source=copy_link">
     <img alt="Static Badge" src="https://img.shields.io/badge/Notion-%23000000.svg?style=social&logo=notion&logoColor=black">
   </a>
 </div>
