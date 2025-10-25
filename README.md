@@ -8,7 +8,9 @@
 - 인증 방식: jwt 토큰 인증
 - 개인 서버에 배포, docker+nginx를 이용해 로드 밸런싱
 ### [웹소설 서비스 - 이름 미정](https://github.com/IUCyH/novel-service)
-- 2025.08 ~ 
+- 2025.08 ~
+- 사용 언어: Java
+- 사용 프레임워크: Spring, Spring Boot, Spring MVC
 ### [백준](https://github.com/IUCyH/BOJ_Study)
 - 사용언어: C
 - [프로필](https://www.acmicpc.net/user/bere6363)
