@@ -34,7 +34,6 @@
 <h3 align="center">📄 Languages</h3>
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/c-20232a.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-color.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=00599C">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%23-color.svg?style=for-the-badge&logo=C%23&logoColor=white&color=512BD4">
   <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
