@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=10&height=300&section=header&text=Iucyh's%20GitHub&fontSize=90"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=10&height=300&section=header&text=Lucy's%20GitHub&fontSize=90"/>
+  <p><b>📗 Blog</b></p>
+  <a href="https://lucy-blog.notion.site/2860ad45a877804cbb2bd5c9167e44c8?source=copy_link">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Notion-%23000000.svg?style=social&logo=notion&logoColor=black">
+  </a>
 </div>
 
 ## Projects
@@ -41,13 +45,4 @@
 <h3 align="center">🏛️ Frameworks</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-</div>
-
-<br>
-
-<h3 align="center">📗 Blog</h3>
-<div align="center">
-  <a href="https://maize-filament-69f.notion.site/2860ad45a877804cbb2bd5c9167e44c8?source=copy_link">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Notion-%23000000.svg?style=social&logo=notion&logoColor=black">
-  </a>
 </div>
