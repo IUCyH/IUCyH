@@ -18,30 +18,28 @@
 ### [백준](https://github.com/IUCyH/BOJ_Study)
 - 사용언어: C
 - [프로필](https://www.acmicpc.net/user/bere6363)
+
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IUCyH&show_icons=true&theme=buefy"/>
+<div align="left">
+  <div>
+    <h3>📄 Languages</h3>
+    <img alt="Static Badge" src="https://img.shields.io/badge/c-20232a.svg?style=for-the-badge&logo=c&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/C%23-color.svg?style=for-the-badge&logo=C%23&logoColor=white&color=512BD4">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white">
+  </div>
+
+  <div>
+    <h3>🏛️ Frameworks</h3>
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+  </div>
 </div>
 
-<br>
+---
 
-<div align="center">
+<div align="left">
+  <h3>📊 Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=IUCyH&show_icons=true&theme=buefy&line_height=30&&hide=stars&hide_title=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IUCyH&layout=compact"/>
-</div>
-
-<br>
-  
-<h3 align="center">📄 Languages</h3>
-<div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/c-20232a.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/C%23-color.svg?style=for-the-badge&logo=C%23&logoColor=white&color=512BD4">
-  <br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="Static Badge" src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white">
-</div>
-
-<h3 align="center">🏛️ Frameworks</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 </div>
